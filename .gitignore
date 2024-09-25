@@ -1,1 +1,4 @@
 .idea
+.coverage
+tests/__pycache__
+donnedessouscharles/__pycache__
